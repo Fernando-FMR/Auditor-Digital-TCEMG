@@ -1,0 +1,167 @@
+            addResult(
+              "Fracionamento de Despesa", 
+--
+            addResult(
+              "Conflito de Interesses", 
+--
+              addResult(
+                "Eficiência de Frota", 
+--
+              addResult(
+                "Limites LRF (Pessoal)", 
+--
+            addResult(
+              "Certidões Vencidas", 
+--
+            addResult(
+              "Restrição à Competitividade", 
+--
+          addResult(
+            "Caronas em Atas", 
+--
+              addResult(
+                "Integridade de Notas", 
+--
+            addResult(
+              "Rastreabilidade Financeira", 
+--
+          addResult(
+            "Itens Genéricos", 
+--
+              addResult(
+                "Pagamento Antecipado", 
+--
+          addResult(
+            "Diárias Excessivas", 
+--
+          addResult(
+            "Ausência de Publicidade", 
+--
+            addResult(
+              "Abastecimento Fim de Semana", 
+--
+            addResult(
+              "Aditivos Exorbitantes", 
+--
+            addResult(
+              "Segregação de Funções", 
+--
+            addResult(
+              "Acúmulo de Cargos", 
+--
+          addResult(
+            "Empenho sem Licitação", 
+--
+              addResult(
+                "Divergência de Datas", 
+--
+              addResult(
+                "Pagamentos Duplicados (Órgãos Dif.)",
+--
+              addResult(
+                "Contrato Expirado sem Aditivo",
+--
+                addResult(
+                  "Acompanhamento de Manutenção de Veículos (Frequência)",
+--
+              addResult(
+                "Acompanhamento de Manutenção de Veículos (Alto Custo)",
+--
+              addResult(
+                "Acompanhamento de Manutenção de Veículos (Inconsistência de Odômetro)",
+--
+            addResult(
+              "Concentração de Contratações",
+--
+              addResult(
+                "Cartelização (Sócios Comuns)",
+--
+            addResult(
+              "Emergência Fabricada",
+--
+            addResult(
+              "Teto Salarial Ultrapassado",
+--
+            addResult(
+              "Divergência de Quantitativos",
+--
+            addResult(
+              "Fundeb 70% (Magistério)",
+--
+            addResult(
+              "MDE 25% (Educação)",
+--
+            addResult(
+              "Concentração em Merenda Escolar",
+--
+            addResult(
+              "Manutenção Transporte Escolar",
+--
+            addResult(
+              "ASPS 15% (Saúde)",
+--
+            addResult(
+              "Concentração em Medicamentos",
+--
+            addResult(
+              "Manutenção de Ambulância",
+--
+            addResult(
+              "Plantões Médicos Excessivos",
+--
+          addResult(
+            "Abastecimento Suspeito",
+--
+            addResult(
+              "Licitação com Participante Único",
+--
+          addResult(
+            "Gasto com Publicidade",
+--
+            addResult(
+              "Horas Extras Excessivas",
+--
+          addResult(
+            "Renúncia de Receita",
+--
+            addResult(
+              "Fracionamento de Medicamentos", 
+--
+          addResult(
+            "Alta Terceirização na Saúde",
+--
+              addResult(
+                "Eficiência de Ambulância", 
+--
+          addResult(
+            "Gasto Elevado com OPME",
+--
+            addResult(
+              "Diárias Acumuladas",
+--
+            addResult(
+              "Inconsistência de Carga Horária",
+--
+              addResult(
+                "Divergência de Preço Unitário",
+--
+            addResult(
+              "Serviços PF Elevados",
+--
+            addResult(
+              "Vencedor Único em Licitação Multi-item",
+--
+              addResult(
+                "Pagamento Antecipado ao Empenho",
+--
+            addResult(
+              "Conformidade de Horas Extras (Valor)",
+--
+            addResult(
+              "Conformidade de Horas Extras (Jornada)",
+--
+            addResult(
+              "Conformidade de Horas Extras (Risco de Fadiga)",
+--
+          addResult(
+            "Contratações com Serviços Idênticos em Órgãos Diferentes",
